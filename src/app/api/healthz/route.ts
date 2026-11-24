@@ -3,7 +3,7 @@ import { json } from '@/lib/http';
 
 export const dynamic = 'force-dynamic';
 
-const PING_TIMEOUT_MS = 2_000;
+const PING_TIMEOUT_MS = 4_500;
 
 /**
  * GET /api/healthz
