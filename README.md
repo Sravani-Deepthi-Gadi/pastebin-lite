@@ -4,7 +4,7 @@ A small Pastebin-style app: paste some text, get a shareable link, and
 optionally make the paste disappear after a time limit, a number of views, or
 both. Built with Next.js (App Router) and Postgres, deployed on Vercel.
 
-- **Live app:** _add your deployed URL here_
+- **Live app:** https://pastebin-lite-delta-rosy.vercel.app
 - **Create a paste:** `/`
 - **View a paste:** `/p/<id>`
 
